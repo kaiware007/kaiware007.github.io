@@ -3,23 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kaiware007.github.io/weevil/</loc>
+    <lastmod>2017-11-11T04:18:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaiware007.github.io/cup_warmer/</loc>
+    <lastmod>2017-11-11T04:11:26+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaiware007.github.io/led_scarf_2014/</loc>
+    <lastmod>2017-11-11T03:51:50+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kaiware007.github.io/led_scarf_2013/</loc>
     <lastmod>2017-11-11T00:55:49+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kaiware007.github.io/post/hello/</loc>
-    <lastmod>2017-11-07T00:02:33+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kaiware007.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kaiware007.github.io/post/</loc>
-    <lastmod>2017-11-07T00:02:33+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,7 +34,7 @@
   
   <url>
     <loc>https://kaiware007.github.io/</loc>
-    <lastmod>2017-11-11T00:55:49+09:00</lastmod>
+    <lastmod>2017-11-11T04:18:27+09:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,31 +6,57 @@
     <description>Recent content on kaiware style</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 11 Nov 2017 00:55:49 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Nov 2017 04:18:27 +0900</lastBuildDate>
     
 	<atom:link href="https://kaiware007.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Led_scarf_2013</title>
+      <title>全方向移動型ラジコン戦車 Weevil</title>
+      <link>https://kaiware007.github.io/weevil/</link>
+      <pubDate>Sat, 11 Nov 2017 04:18:27 +0900</pubDate>
+      
+      <guid>https://kaiware007.github.io/weevil/</guid>
+      <description>自作の全方向移動型ラジコン戦車です。
+ボディは全て3Dプリンタ製、制御はRaspberry pi 2で行っています。
+車輪にオムニホイール、操作にアナログスティック2本を使用して全方向移動を実現しています。
+Webカメラによるストリーミング配信が可能です。
+砲塔から、スプリング式のおもちゃのミサイルを6発発射可能です。
+Maker Faire Tokyo 2016に出展しました。</description>
+    </item>
+    
+    <item>
+      <title>ミニ八卦炉型USBカップウォーマー</title>
+      <link>https://kaiware007.github.io/cup_warmer/</link>
+      <pubDate>Sat, 11 Nov 2017 04:11:26 +0900</pubDate>
+      
+      <guid>https://kaiware007.github.io/cup_warmer/</guid>
+      <description>USB電源で動く単純なカップウォーマーです。
+一応サーモスタットで異常加熱対策をしています。
+3Dプリンタで筐体を作り、塗装や木目調シートで質感を出しました。
+保温性は比熱の高いアルミや缶などではそれなりでした。</description>
+    </item>
+    
+    <item>
+      <title>光るLEDマフラー2014</title>
+      <link>https://kaiware007.github.io/led_scarf_2014/</link>
+      <pubDate>Sat, 11 Nov 2017 03:51:50 +0900</pubDate>
+      
+      <guid>https://kaiware007.github.io/led_scarf_2014/</guid>
+      <description>趣味の電子工作のLEDマフラー2014年版です。
+リリアン編みのマフラーの中にArduinoとLEDテープを入れて光るようにしたマフラーです。
+Arduinoで光り方を調整し、落ち着きのあるサイバー感が出せたと思います。</description>
+    </item>
+    
+    <item>
+      <title>光るLEDマフラー2013</title>
       <link>https://kaiware007.github.io/led_scarf_2013/</link>
       <pubDate>Sat, 11 Nov 2017 00:55:49 +0900</pubDate>
       
       <guid>https://kaiware007.github.io/led_scarf_2013/</guid>
-      <description>光るLEDマフラー 2013年版 {{&amp;lt; youtube MTFHbfvSQnQ &amp;gt;}}
-2014年版 {{&amp;lt; yotube AaY6jOqDxIw &amp;gt;}}
-趣味作品。
-リリアン編みのマフラーの中にマイコンとLEDテープを入れて光るようにしたマフラーです。
-マイコンで光り方を調整し、落ち着きのあるサイバー感が出せたと思います。</description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>https://kaiware007.github.io/post/hello/</link>
-      <pubDate>Tue, 07 Nov 2017 00:02:33 +0900</pubDate>
-      
-      <guid>https://kaiware007.github.io/post/hello/</guid>
-      <description> Hello World </description>
+      <description>趣味作品。
+リリアン編みのマフラーの中にカー用品のLEDチューブを入れて光るようにしたマフラーです。
+LEDチューブは防水加工がされていましたが、そのゴムの油のような臭いが強烈で身につけるのが困難でした…。</description>
     </item>
     
   </channel>
