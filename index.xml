@@ -6,10 +6,39 @@
     <description>Recent content on kaiware style</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 11 Nov 2017 04:18:27 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 07 Dec 2018 04:06:21 +0900</lastBuildDate>
     
 	<atom:link href="https://kaiware007.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unity Default-Skybox T Shirt</title>
+      <link>https://kaiware007.github.io/unity_default_skybox_tshirt/</link>
+      <pubDate>Fri, 07 Dec 2018 04:06:21 +0900</pubDate>
+      
+      <guid>https://kaiware007.github.io/unity_default_skybox_tshirt/</guid>
+      <description>UnityのDefault-Skyboxを元ネタとするフルグラフィックTシャツです。
+Unityを使ってる人なら親の顔より見たことある景色だと思います。
+現実の地平線とシャツの地面が一致するように立つといい感じかもしれません。
+作ってみたものの目立ちたくないのでほとんど着ていません。
+非売品</description>
+    </item>
+    
+    <item>
+      <title>Emojikeyboard</title>
+      <link>https://kaiware007.github.io/emojikeyboard/</link>
+      <pubDate>Fri, 07 Dec 2018 03:27:09 +0900</pubDate>
+      
+      <guid>https://kaiware007.github.io/emojikeyboard/</guid>
+      <description>Arduino Leonardoを使った絵文字キーボードの試作品です。
+Arduino Leonardoにタッチパネル液晶をつけ、USBキーボードとして認識させています。
+タッチパネルなので厳密にはキーボードじゃないかもしれません。
+タッチパネルの絵文字を押すことで、絵文字の文字コードを送信します。
+Macの文字入力モードの一つ「Unicode Hex Input」を使うことで、16進数の入力を絵文字に置換させています。
+よって、Macでしか動きません。
+ゆくゆくはWindowsでも動く絵文字キーボードが作りたいです。
+Maker Faire Tokyo 2018に出展しました。</description>
+    </item>
     
     <item>
       <title>全方向移動型ラジコン戦車 Weevil</title>
